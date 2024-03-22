@@ -1,0 +1,7 @@
+recommonmark
+sphinx-autobuild
+sphinx_rtd_theme
+sphinx_markdown_tables
+myst_parser
+sphinxcontrib.mermaid
+sphinx_copybutton
